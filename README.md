@@ -56,8 +56,8 @@ The smoke script verifies exact `0/1` rational proofs for Theorems 1 to 2 and Pr
 If you use this software or benchmark suite, cite the accompanying manuscript:
 
 ```bibtex
-@article{le2026monocif,
-  author  = {Le, Tran Duc},
+@article{vo2026monocif,
+  author  = {Vo, Evelyn and Le, Tran Duc},
   title   = {Censoring-Ancillary Competing-Risk Prognosis and Shock-Gated Hierarchical Cross-Cause Maintenance for Population Cancer Registries},
   journal = {Journal of Biomedical Informatics},
   year    = {2026},
