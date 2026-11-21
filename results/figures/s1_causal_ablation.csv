@@ -1,0 +1,11 @@
+idx,label,role,mae_mean,mae_sd,monov_pct,simpv_pct
+1,MonoCIF-RB,proposed,0.04695,0.00195,0.0,0.0
+2,Disc-Haz-NN,baseline1,0.04758,0.00216,0.0,0.0
+3,RB-Brier,ablation,0.04814,0.00243,0.0,0.0
+4,Mono-CovIPCW,baseline2,0.05013,0.00210,0.0,0.0
+5,Mono-KM,baseline2,0.05275,0.00214,0.0,0.0
+6,PerHoriz-BCE,failure,0.05347,0.00224,100.0,33.6
+7,CRNLL-KM,failure,0.05476,0.00359,100.0,0.0
+8,DR-Brier,failure,0.05614,0.00209,0.0,0.0
+9,CS-XGB (PH),baseline3,0.05981,0.00218,0.0,0.0
+10,Cutoff-XGB,failure,0.08937,0.00180,100.0,0.0

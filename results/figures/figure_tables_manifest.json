@@ -1,0 +1,50 @@
+{
+  "s1_causal_ablation.csv": {
+    "path": "results/figures/s1_causal_ablation.csv",
+    "sha256": "17f0636c161924ceeb9130b0b79b19afa42d44849e88a82f9f15f56b27f25aa7",
+    "source_artifact": "results/simulation_suite_results.json",
+    "rows": 10
+  },
+  "s4_shared_frailty_sensitivity.csv": {
+    "path": "results/figures/s4_shared_frailty_sensitivity.csv",
+    "sha256": "0fb2a967cef3e50bfbac2a77f15d426e6a33e5b0b2ad072a3df5a1c6e750b219",
+    "source_artifact": "results/simulation_suite_results.json",
+    "rows": 4
+  },
+  "seer_yearly_competing_mortality.csv": {
+    "path": "results/figures/seer_yearly_competing_mortality.csv",
+    "sha256": "ef0197af581c9d1cd9d0c7bc3ec2dbe06fd6ec4aacd49c1f953bc4c64c685649",
+    "source_artifact": "results/reporting_lag_results.json",
+    "rows": 5
+  },
+  "reporting_lag_calibration_ratio.csv": {
+    "path": "results/figures/reporting_lag_calibration_ratio.csv",
+    "sha256": "f0a7151adf7a3086a43f5e656f3a8511fcabd5d9a0121860a8ffeee4cb11b127",
+    "source_artifact": "results/reporting_lag_results.json",
+    "rows": 4
+  },
+  "seer_subgroup_calibration_audit.csv": {
+    "path": "results/figures/seer_subgroup_calibration_audit.csv",
+    "sha256": "af73e72738ee4462a869ea031bb44336d6e99dc489a0af414815c9350a24d2d1",
+    "source_artifact": "results/clinical_cohorts_results.json",
+    "rows": 12
+  },
+  "seer_elderly_oncology_dca.csv": {
+    "path": "results/figures/seer_elderly_oncology_dca.csv",
+    "sha256": "e78985875ff6b36fdd78625a660e86f797b94e1a616a55c120f10d045de25ff9",
+    "source_artifact": "results/clinical_cohorts_results.json",
+    "rows": 5
+  },
+  "s2b_recalibration_sample_scaling.csv": {
+    "path": "results/figures/s2b_recalibration_sample_scaling.csv",
+    "sha256": "bcb142150baaf5aa4560fa36e84ca8fb3e9e02d7caf47d342b54e571784466eb",
+    "source_artifact": "results/mechanism_ablation_results.json",
+    "rows": 4
+  },
+  "multicohort_clinical_calibration.csv": {
+    "path": "results/figures/multicohort_clinical_calibration.csv",
+    "sha256": "bf26d436aeabd88ec8a5831725e0a19857d42412948e5c8aa5cc753364820dce",
+    "source_artifact": "results/clinical_cohorts_results.json",
+    "rows": 4
+  }
+}
