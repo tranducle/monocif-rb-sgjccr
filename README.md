@@ -3,7 +3,7 @@
 Research code, exact rational verification probes, and archived benchmark summaries for:
 
 > **Censoring-Ancillary Competing-Risk Prognosis and Shock-Gated Hierarchical Cross-Cause Maintenance for Population Cancer Registries**
-> Tran Duc Le, University of Wisconsin-Stout
+> Evelyn Vo and Tran Duc Le, University of Wisconsin-Stout
 
 ## Overview
 
